@@ -1,0 +1,11 @@
+go 1.25.5
+
+use (
+	.
+	./eds
+	./bblot_wrapper
+	./badger_wrapper
+	./codec
+	./codec/json_codec
+	./codec/msgpack_codec
+)
