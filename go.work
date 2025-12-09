@@ -8,4 +8,5 @@ use (
 	./codec
 	./codec/json_codec
 	./codec/msgpack_codec
+	./pkg
 )
